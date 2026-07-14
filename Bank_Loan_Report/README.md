@@ -48,6 +48,23 @@ This project addresses these challenges by developing an interactive Power BI da
 
 The Bank Loan Analysis Dashboard consists of three interactive reports that provide a comprehensive view of the bank's lending operations. The Executive Summary displays key performance indicators, including total loan applications, total funded amount, total amount received, average interest rate, debt-to-income (DTI) ratio, Month-to-Date (MTD) performance, Month-over-Month (MoM) growth, and Good Loan versus Bad Loan analysis. The Overview Dashboard presents interactive visualizations such as monthly lending trends, regional loan distribution, loan terms, employment length, loan purposes, and home ownership analysis to uncover business patterns and lending insights. The Details Dashboard offers a detailed, record-level view of the loan portfolio, enabling users to examine borrower information, loan status, repayment details, and other essential metrics for comprehensive analysis and informed decision-making.
 
+<p align="center">
+<img src="1_Bank_Loan_Report.png" width="100%">
+</p>
+
+<br>
+
+<p align="center">
+<img src="2_Bank_Loan_Report.png" width="100%">
+</p>
+
+<br>
+
+<p align="center">
+<img src="3_Bank_Loan_Report.png" width="100%">
+</p>
+
+
 ---
 
 # 💡 Business Insights
