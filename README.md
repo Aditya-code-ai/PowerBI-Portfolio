@@ -64,22 +64,9 @@ The dashboards span multiple domains—including healthcare, finance, banking, d
 
 # 🙋 About Me
 
-Hi, I'm **Aditya Pratap Singh**, an Electronics & Communication Engineering undergraduate at **National Institute of Technology Silchar** with a strong interest in **Business Intelligence, Data Analytics, and Data Visualization**.
+Hi, I'm **Aditya Pratap Singh**, an Electronics & Communication Engineering undergraduate at the **National Institute of Technology Silchar**, passionate about **Business Intelligence, Data Analytics, Data Science, Artificial Intelligence, Machine Learning, and Data Visualization**.
 
-I enjoy transforming complex datasets into intuitive dashboards that support data-driven decision-making. My work focuses on creating interactive reports, identifying key business trends, and presenting insights through clean and impactful visualizations.
-
-### Core Skills
-
-- 📊 Power BI
-- 🧮 SQL
-- ⚡ DAX
-- 🔄 Power Query
-- 📈 Data Modeling
-- 📉 Data Visualization
-- 📑 Microsoft Excel
-- 🐍 Python
-- 📂 ETL
-- 📋 Dashboard Design
+I enjoy transforming raw data into meaningful insights by developing interactive dashboards, analyzing complex datasets, and building data-driven solutions. My interests span across **Business Intelligence, Predictive Analytics, Machine Learning, AI-powered applications, and Data Storytelling**, where I combine analytical thinking with modern technologies to solve real-world problems.
 
 ---
 
