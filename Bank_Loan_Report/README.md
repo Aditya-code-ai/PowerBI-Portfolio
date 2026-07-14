@@ -19,57 +19,50 @@
 
 # 📖 Project Overview
 
-The **Bank Loan Analysis Dashboard** is an end-to-end Business Intelligence project built using **Microsoft SQL Server** and **Power BI** to analyze lending operations, monitor loan performance, and generate actionable financial insights.
-
-The dashboard transforms raw banking data into meaningful visualizations that help decision-makers track loan applications, funding activities, repayments, borrower profiles, and regional lending trends through an interactive reporting experience.
+The Bank Loan Analysis Dashboard is an end-to-end Business Intelligence project developed using Microsoft SQL Server and Power BI to analyze lending operations, monitor loan performance, and generate meaningful business insights. The project transforms raw banking data into interactive dashboards that help stakeholders monitor loan applications, funding activities, repayments, borrower profiles, and regional lending trends for informed decision-making.
 
 ---
 
 # 🎯 Business Problem
 
-Banks process thousands of loan applications every month, making it challenging to monitor loan approvals, funded amounts, repayments, and borrower performance efficiently.
+Banks process thousands of loan applications every month, making it difficult to efficiently monitor loan approvals, funded amounts, repayments, borrower profiles, and portfolio performance. Traditional reporting methods often fail to provide real-time insights required for effective decision-making.
 
-The objective of this project is to design an interactive dashboard that enables stakeholders to:
-
-- Monitor lending performance
-- Evaluate loan quality
-- Identify high-performing and underperforming loan segments
-- Analyze borrower characteristics
-- Support data-driven lending decisions
+This project addresses these challenges by developing an interactive Power BI dashboard that enables users to monitor key lending metrics, evaluate loan quality, analyze borrower characteristics, identify regional trends, and gain a comprehensive understanding of the bank's lending portfolio.
 
 ---
 
 # 🎯 Project Objectives
 
-- Analyze overall lending performance
-- Monitor Month-to-Date (MTD) and Month-over-Month (MoM) KPIs
-- Compare Good Loans vs Bad Loans
-- Track funded amounts and repayments
-- Identify regional lending trends
-- Analyze borrower employment history
-- Understand loan purposes and home ownership distribution
-- Build an interactive dashboard for business users
+- Analyze overall lending performance.
+- Monitor Month-to-Date (MTD) and Month-over-Month (MoM) KPIs.
+- Compare Good Loans and Bad Loans.
+- Track funded amounts and repayments.
+- Analyze borrower demographics and employment history.
+- Identify regional lending trends.
+- Understand loan purposes and home ownership patterns.
+- Build an interactive dashboard for data-driven decision-making.
 
 ---
 
 # 📊 Dashboard Preview
 
 The Bank Loan Analysis Dashboard consists of three interactive reports that provide a comprehensive view of the bank's lending operations. The Executive Summary displays key performance indicators, including total loan applications, total funded amount, total amount received, average interest rate, debt-to-income (DTI) ratio, Month-to-Date (MTD) performance, Month-over-Month (MoM) growth, and Good Loan versus Bad Loan analysis. The Overview Dashboard presents interactive visualizations such as monthly lending trends, regional loan distribution, loan terms, employment length, loan purposes, and home ownership analysis to uncover business patterns and lending insights. The Details Dashboard offers a detailed, record-level view of the loan portfolio, enabling users to examine borrower information, loan status, repayment details, and other essential metrics for comprehensive analysis and informed decision-making.
+
 ---
 
 # 💡 Business Insights
 
-The dashboard helps answer critical business questions such as:
+The dashboard helps answer several important business questions, including:
 
 - How many loan applications were received?
 - What is the total funded amount?
-- How much has been repaid by borrowers?
-- Which states generate the highest loan activity?
-- What percentage of loans are Good vs Bad?
+- How much money has been received from borrowers?
+- Which states generate the highest lending activity?
+- What percentage of loans are classified as Good Loans and Bad Loans?
 - Which loan purposes are most common?
-- Does employment length affect loan approvals?
-- How do interest rates vary across the portfolio?
-- What is the average borrower Debt-to-Income Ratio (DTI)?
+- How does employment length influence lending?
+- What is the average interest rate across the portfolio?
+- What is the average Debt-to-Income (DTI) ratio of borrowers?
 
 ---
 
@@ -77,9 +70,9 @@ The dashboard helps answer critical business questions such as:
 
 | Technology | Purpose |
 |------------|---------|
-| Microsoft SQL Server | Database Management |
+| Microsoft SQL Server | Database Creation & Management |
 | SQL | Data Extraction & Business Queries |
-| Power BI | Dashboard Development |
+| Power BI | Interactive Dashboard Development |
 | Power Query | Data Cleaning & Transformation |
 | DAX | KPI Calculations & Measures |
 | Microsoft Excel | Data Preparation |
@@ -88,6 +81,8 @@ The dashboard helps answer critical business questions such as:
 
 # 🚀 Skills Demonstrated
 
+- Business Intelligence
+- Data Analytics
 - SQL Query Writing
 - Database Management
 - Data Cleaning
@@ -98,7 +93,6 @@ The dashboard helps answer critical business questions such as:
 - KPI Development
 - Financial Data Analysis
 - Interactive Dashboard Design
-- Business Intelligence
 - Data Visualization
 - Analytical Storytelling
 
@@ -126,7 +120,7 @@ Data Modeling
 (Relationships & Schema)
         │
         ▼
-DAX Measures & KPIs
+DAX Measures & KPI Development
         │
         ▼
 Interactive Power BI Dashboard
