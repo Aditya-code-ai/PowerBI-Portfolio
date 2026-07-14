@@ -62,115 +62,90 @@ Explore a collection of interactive Power BI dashboards developed using real-wor
 
 # 🩺 Diabetes & Heart Risk Analysis Dashboard
 
-<p align="center">
-<img src="Diabetes-Heart-Risk-Analysis/dashboard.gif" width="100%">
-</p>
-
 ### 📖 Overview
 
 An interactive healthcare dashboard designed to analyze diabetes prevalence, cardiovascular risk factors, patient demographics, and overall health indicators. The dashboard enables quick identification of high-risk patient groups through dynamic KPIs and visual analytics.
 
-**🛠 Technologies Used**
-
-`Power BI` • `DAX` • `Power Query` • `Excel`
+<p align="center">
+<img width="800" height="450" alt="DiabetesHeart_Risk_Analysis" src="https://github.com/user-attachments/assets/b16ee00e-12c4-4f35-b7b7-853fa5ca43f3" />
+</p>
 
 ---
 
 # 😊 MoodSense Mental Health Dashboard
 
-<p align="center">
-<img width="800" height="450" alt="DiabetesHeart_Risk_Analysis" src="https://github.com/user-attachments/assets/b16ee00e-12c4-4f35-b7b7-853fa5ca43f3" />
-
-</p>
-
 ### 📖 Overview
 
 A mental wellness analytics dashboard that visualizes emotional trends, mood distributions, and behavioral patterns. It provides meaningful insights into mental health data using interactive reports and intuitive visual storytelling.
 
-**🛠 Technologies Used**
+<p align="center">
+<img width="800" height="450" alt="Moodsense_report-ezgif com" src="https://github.com/user-attachments/assets/4ffaa35c-1e58-4ab1-b0ee-a4965d07d16f" />
 
-`Power BI` • `DAX` • `Power Query` • `Excel`
+</p>
 
 ---
 
 # 🎓 Students Financial Dashboard
 
-<p align="center">
-<img src="Students-Financial-Report/dashboard.gif" width="100%">
-</p>
-
 ### 📖 Overview
 
 A financial analytics dashboard developed to explore students' income sources, spending behavior, savings, and budgeting patterns. The dashboard helps identify financial trends that support informed decision-making.
 
-**🛠 Technologies Used**
+<p align="center">
+<img width="800" height="450" alt="Students_Financial_Report" src="https://github.com/user-attachments/assets/afd1e430-a20a-4f5c-90f3-92c06b7e3efe" />
 
-`Power BI` • `DAX` • `Power Query` • `Excel`
+</p>
 
 ---
 
 # 🏦 Bank Loan Analysis Dashboard
 
-<p align="center">
-<img src="Bank-Loan-Report/dashboard.gif" width="100%">
-</p>
-
 ### 📖 Overview
 
 A comprehensive banking dashboard that evaluates loan applications, funded amounts, repayment performance, customer segmentation, and key financial KPIs. Designed to provide actionable insights into lending operations and portfolio performance.
 
-**🛠 Technologies Used**
+<p align="center">
+<img width="800" height="450" alt="Bank_Loan_Report" src="https://github.com/user-attachments/assets/acc1d2a0-a1c3-4acc-9530-d4e599cbe2c2" />
 
-`Power BI` • `SQL` • `DAX` • `Power Query`
+</p>
 
 ---
 
 # 📢 Meta Advertising Performance Dashboard
 
-<p align="center">
-<img src="Meta-Ad-Performance/dashboard.gif" width="100%">
-</p>
-
 ### 📖 Overview
 
 A digital marketing dashboard that measures campaign effectiveness through metrics such as impressions, clicks, conversions, engagement, ROI, and advertising spend. It enables data-driven optimization of marketing strategies.
 
-**🛠 Technologies Used**
+<p align="center">
+<img width="800" height="450" alt="Meta_Ad_Performance_Report" src="https://github.com/user-attachments/assets/b7996bcd-964c-44ed-8854-1c5bd1537f20" />
 
-`Power BI` • `Excel` • `DAX`
-
+</p>
 ---
 
 # 🛒 Shopify Sales Analytics Dashboard
-
-<p align="center">
-<img src="Shopify-Analysis/dashboard.gif" width="100%">
-</p>
 
 ### 📖 Overview
 
 An e-commerce sales dashboard built to monitor revenue, product performance, customer behavior, order trends, and sales growth. Interactive filtering allows users to explore business performance from multiple perspectives.
 
-**🛠 Technologies Used**
+<p align="center">
+<img width="800" height="450" alt="Shopify_Analysis" src="https://github.com/user-attachments/assets/1a99e806-ff34-40e2-a722-141afa431035" />
 
-`Power BI` • `SQL` • `DAX` • `Power Query`
+</p>
+
 
 ---
 
 # 🎵 Spotify Music Analytics Dashboard
 
-<p align="center">
-<img src="Spotify-Analysis/dashboard.gif" width="100%">
-</p>
-
 ### 📖 Overview
 
 A music analytics dashboard that explores streaming trends, artist popularity, album performance, genre distribution, and listener engagement. Designed to uncover insights from large-scale music streaming datasets.
+<p align="center">
+<img width="800" height="450" alt="Spotify_Analysis" src="https://github.com/user-attachments/assets/92608996-bc78-4be8-893f-11eb14d71c2e" />
 
-**🛠 Technologies Used**
-
-`Power BI` • `Excel` • `DAX`
-
+</p>
 ---
 
 # 🏆 Professional Certifications
@@ -182,7 +157,8 @@ The following certifications have strengthened my knowledge in Business Intellig
 ## 📊 Microsoft Power BI Data Analyst Professional Certificate
 
 <p align="center">
-<img src="assets/powerbi_certificate.png" width="900">
+[Microsoft.pdf](https://github.com/user-attachments/files/30012255/Microsoft.pdf)
+
 </p>
 
 This professional certification provided comprehensive training in:
@@ -195,24 +171,6 @@ This professional certification provided comprehensive training in:
 - Business Intelligence
 - Data Visualization
 - Microsoft Excel Integration
-
----
-
-## 🗄️ Microsoft SQL Server Professional Certificate
-
-<p align="center">
-<img src="assets/sql_certificate.png" width="900">
-</p>
-
-Key learning outcomes include:
-
-- SQL Query Writing
-- Relational Database Design
-- Data Manipulation
-- Performance Optimization
-- Indexing
-- Database Security
-- Business Intelligence Integration
 
 ---
 
