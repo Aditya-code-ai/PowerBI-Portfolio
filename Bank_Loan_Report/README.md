@@ -54,50 +54,7 @@ The objective of this project is to design an interactive dashboard that enables
 
 # 📊 Dashboard Preview
 
-## Dashboard 1 — Executive Summary
-
-<p align="center">
-<img src="images/dashboard1.png" width="100%">
-</p>
-
-### Key KPIs
-
-- 📈 Total Loan Applications
-- 💰 Total Funded Amount
-- 💵 Total Amount Received
-- 📊 Average Interest Rate
-- 📉 Average Debt-to-Income (DTI)
-- 📅 Month-to-Date (MTD) Performance
-- 📈 Month-over-Month (MoM) Growth
-- ✅ Good Loan vs Bad Loan Analysis
-
----
-
-## Dashboard 2 — Loan Overview
-
-<p align="center">
-<img src="images/dashboard2.png" width="100%">
-</p>
-
-### Interactive Visualizations
-
-- 📈 Monthly Lending Trends
-- 🗺 Regional Loan Distribution
-- ⏳ Loan Term Analysis
-- 👨‍💼 Employment Length Analysis
-- 💳 Loan Purpose Breakdown
-- 🏠 Home Ownership Analysis
-
----
-
-## Dashboard 3 — Loan Details
-
-<p align="center">
-<img src="images/dashboard3.png" width="100%">
-</p>
-
-Provides a comprehensive record-level view of the loan portfolio, enabling users to explore detailed borrower information and loan performance for in-depth analysis.
-
+The Bank Loan Analysis Dashboard consists of three interactive reports that provide a comprehensive view of the bank's lending operations. The **Executive Summary** presents key performance indicators such as total loan applications, funded amount, total amount received, average interest rate, debt-to-income ratio (DTI), Month-to-Date (MTD) and Month-over-Month (MoM) performance, along with Good Loan vs Bad Loan analysis. The **Overview Dashboard** offers visual insights into monthly lending trends, regional loan distribution, loan terms, borrower employment history, loan purposes, and home ownership patterns, enabling users to identify business trends and lending opportunities. The **Details Dashboard** provides a detailed record-level view of the loan portfolio, allowing users to explore borrower information, loan status, repayment details, and other essential metrics for comprehensive analysis and informed decision-making.
 ---
 
 # 💡 Business Insights
