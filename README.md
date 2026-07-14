@@ -157,7 +157,7 @@ The following certifications have strengthened my knowledge in Business Intellig
 ## 📊 Microsoft Power BI Data Analyst Professional Certificate
 
 <p align="center">
-[Microsoft.pdf](https://github.com/user-attachments/files/30012255/Microsoft.pdf)
+<img width="815" height="628" alt="Microsoft" src="https://github.com/user-attachments/assets/dc5e1c2c-2a61-4ae5-807e-ef5271ae2019" />
 
 </p>
 
