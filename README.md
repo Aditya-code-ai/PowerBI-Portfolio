@@ -9,16 +9,49 @@ A collection of interactive Power BI dashboards built using real-world datasets 
 </p>
 
 <p align="center">
+<p align="center">
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/DAX-FFB000?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Data_Modeling-1976D2?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Data_Visualization-E91E63?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Microsoft_Excel-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ETL-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Business_Intelligence-512DA8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Analytics-1565C0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Dashboard_Design-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/KPI_Reporting-00897B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Cleaning-5E35B1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Storytelling-C2185B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Interactive_Dashboards-3949AB?style=for-the-badge"/>
+
+</p>
 </p>
 
 ---
