@@ -79,7 +79,8 @@ An interactive healthcare dashboard designed to analyze diabetes prevalence, car
 # 😊 MoodSense Mental Health Dashboard
 
 <p align="center">
-<img src="MoodSense-Report/dashboard.gif" width="100%">
+<img width="800" height="450" alt="DiabetesHeart_Risk_Analysis" src="https://github.com/user-attachments/assets/b16ee00e-12c4-4f35-b7b7-853fa5ca43f3" />
+
 </p>
 
 ### 📖 Overview
