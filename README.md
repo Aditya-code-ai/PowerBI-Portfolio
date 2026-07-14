@@ -1,9 +1,5 @@
 <h1 align="center">📊 Power BI Analytics Portfolio</h1>
 
-<h3 align="center">
-Business Intelligence • Data Analytics • Data Visualization • SQL • Power BI • DAX
-</h3>
-
 <p align="center">
 A collection of interactive Power BI dashboards built using real-world datasets across Healthcare, Finance, Banking, Marketing, E-Commerce, and Business Analytics.
 </p>
