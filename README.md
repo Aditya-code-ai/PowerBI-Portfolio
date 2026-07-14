@@ -1,4 +1,4 @@
-<h1 align="center">📊 Power BI Analytics Portfolio</h1>
+<h1 align="center"> Power BI Analytics Portfolio</h1>
 
 <p align="center">
 A collection of interactive Power BI dashboards built using real-world datasets across Healthcare, Finance, Banking, Marketing, E-Commerce, and Business Analytics.
