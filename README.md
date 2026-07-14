@@ -62,7 +62,7 @@ The dashboards span multiple domains—including healthcare, finance, banking, d
 
 ---
 
-# 🙋 About Me
+# About Me
 
 Hi, I'm **Aditya Pratap Singh**, an Electronics & Communication Engineering undergraduate at the **National Institute of Technology Silchar**, passionate about **Business Intelligence, Data Analytics, Data Science, Artificial Intelligence, Machine Learning, and Data Visualization**.
 
@@ -70,13 +70,7 @@ I enjoy transforming raw data into meaningful insights by developing interactive
 
 ---
 
-# 📂 Featured Dashboard Projects
-
-Explore a collection of interactive Power BI dashboards developed using real-world datasets. Each project demonstrates the complete analytics workflow—from data preparation and modeling to dashboard design and business insight generation.
-
----
-
-# 🩺 Diabetes & Heart Risk Analysis Dashboard
+# Project 1: Diabetes & Heart Risk Analysis Dashboard
 
 ### 📖 Overview
 
@@ -88,7 +82,7 @@ An interactive healthcare dashboard designed to analyze diabetes prevalence, car
 
 ---
 
-# 😊 MoodSense Mental Health Dashboard
+# Project 2: MoodSense Mental Health Dashboard
 
 ### 📖 Overview
 
@@ -101,7 +95,7 @@ A mental wellness analytics dashboard that visualizes emotional trends, mood dis
 
 ---
 
-# 🎓 Students Financial Dashboard
+# Project 3: Students Financial Dashboard
 
 ### 📖 Overview
 
@@ -114,7 +108,7 @@ A financial analytics dashboard developed to explore students' income sources, s
 
 ---
 
-# 🏦 Bank Loan Analysis Dashboard
+# Project 4: Bank Loan Analysis Dashboard
 
 ### 📖 Overview
 
@@ -127,7 +121,7 @@ A comprehensive banking dashboard that evaluates loan applications, funded amoun
 
 ---
 
-# 📢 Meta Advertising Performance Dashboard
+# Project 5: Meta Advertising Performance Dashboard
 
 ### 📖 Overview
 
@@ -139,7 +133,7 @@ A digital marketing dashboard that measures campaign effectiveness through metri
 </p>
 ---
 
-# 🛒 Shopify Sales Analytics Dashboard
+# Project 6: Shopify Sales Analytics Dashboard
 
 ### 📖 Overview
 
@@ -153,7 +147,7 @@ An e-commerce sales dashboard built to monitor revenue, product performance, cus
 
 ---
 
-# 🎵 Spotify Music Analytics Dashboard
+# Project 7: Spotify Music Analytics Dashboard
 
 ### 📖 Overview
 
@@ -164,7 +158,7 @@ A music analytics dashboard that explores streaming trends, artist popularity, a
 </p>
 ---
 
-# 🏆 Professional Certifications
+# 🏆 Professional Certification
 
 The following certifications have strengthened my knowledge in Business Intelligence, Data Analytics, Database Management, and Data Visualization.
 
