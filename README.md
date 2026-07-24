@@ -222,6 +222,4 @@ Thank you for visiting my portfolio.
 
 **Thank you for visiting my Power BI Portfolio.**
 
-Made with ❤️ by **Aditya Pratap Singh**
-
 </p>
