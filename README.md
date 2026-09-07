@@ -158,32 +158,6 @@ A music analytics dashboard that explores streaming trends, artist popularity, a
 </p>
 ---
 
-#  Professional Certification
-
-The following certifications have strengthened my knowledge in Business Intelligence, Data Analytics, Database Management, and Data Visualization.
-
----
-
-##  Microsoft Power BI Data Analyst Professional Certificate
-
-<p align="center">
-<img width="815" height="628" alt="Microsoft" src="https://github.com/user-attachments/assets/dc5e1c2c-2a61-4ae5-807e-ef5271ae2019" />
-
-</p>
-
-This professional certification provided comprehensive training in:
-
-- Power BI Dashboard Development
-- Data Cleaning & Transformation
-- Power Query
-- Data Modeling
-- DAX
-- Business Intelligence
-- Data Visualization
-- Microsoft Excel Integration
-
----
-
 #  Contact
 
 I'm always open to discussing **Data Analytics**, **Business Intelligence**, **Power BI**, and exciting collaboration opportunities.
